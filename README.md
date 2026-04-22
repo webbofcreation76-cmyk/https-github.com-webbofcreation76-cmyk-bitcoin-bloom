@@ -1,4 +1,4 @@
-# Bitcoin Bloom
+# The Bitcoin Tech Tree
 
 A Bitcoin bloom filter implementation for efficient transaction and block filtering.
 
